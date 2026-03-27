@@ -23,7 +23,7 @@
 ```
 
 ### **Patrón de Diseño**
-- **Frontend**: Arquitectura basada en componentes con React
+- **Frontend**: Arquitectura basada en componentes con React y Tailwind
 - **Backend**: Arquitectura RESTful con FastAPI
 - **Base de Datos**: PostgreSQL con ORM SQLAlchemy
 - **Caché**: Redis para optimización de rendimiento
